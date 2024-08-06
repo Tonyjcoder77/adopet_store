@@ -8,7 +8,7 @@
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.alura</groupId>
+	<groupId>br.com.tony</groupId>
 	<artifactId>adopet-store</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>adopet-store</name>
